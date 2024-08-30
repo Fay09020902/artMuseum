@@ -16,7 +16,6 @@ function App() {
       <li>Control Structures</li>
       <li>Browser APIs & The DOM</li>
       <li>Essential Features Used By React</li>
-      <li>Tricky Parts</li>
     </ul>
     </div>
   );
