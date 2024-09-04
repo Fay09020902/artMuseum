@@ -1,5 +1,7 @@
 import { apiKey } from "./util";
 function App() {
+  const hobbies = ["Sports", "Cooking"];
+  hobbies.map((item) => item + "!")
   return (
     <div>
     <header>
