@@ -24,8 +24,7 @@ function App() {
       <li>Browser APIs & The DOM</li>
     </ul>
     <p>
-        Build a component and insert it below this
-        text.
+        Build a component and insert it below this text.
       </p>
     </div>
   );
