@@ -25,7 +25,7 @@ function App() {
       <li>Essential Features Used By React</li>
     </ul>
     <p>
-        Build a <code>&lt;MainGoal&gt;</code> component and insert it below this
+        Build a component and insert it below this
         text.
       </p>
     </div>
