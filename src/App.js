@@ -21,7 +21,8 @@ function App() {
         <li>Arrays</li>
         <li>Control Structures</li>
         <li>Browser APIs & The DOM</li>
-        <li>Adding more</li>
+        <li>Adding more ads</li>
+        <li>Okk</li>
       </ul>
       <p>
         Build a component and insert it below this text.
