@@ -21,6 +21,7 @@ function App() {
         <li>Arrays</li>
         <li>Control Structures</li>
         <li>Browser APIs & The DOM</li>
+        <li>Yo</li>
       </ul>
       <p>
         Build a component and insert it below this text.
