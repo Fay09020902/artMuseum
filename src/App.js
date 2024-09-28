@@ -3,7 +3,6 @@ function Header() {
   return (
     <header>
       <h1>Hello from App</h1>
-      <h1>JavaScript Refresher</h1>
     </header>
   )
 }
