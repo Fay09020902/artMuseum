@@ -7,8 +7,6 @@ function Header() {
   )
 }
 function App() {
-
-
   return (
     <div>
       <Header></Header>
