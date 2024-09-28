@@ -23,6 +23,9 @@ function App() {
       <p>
         Build a component and insert it below this text.
       </p>
+      <p>
+        you know
+      </p>
     </div>
   );
 }
