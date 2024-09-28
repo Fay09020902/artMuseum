@@ -16,8 +16,6 @@ function App() {
         <li>Base Syntax & Rules</li>
         <li>Variables, Values & Operators</li>
         <li>Functions</li>
-        <li>Objects</li>
-        <li>Arrays</li>
         <li>Control Structures</li>
         <li>Browser APIs & The DOM</li>
         <li>Yo</li>
