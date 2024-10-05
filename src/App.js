@@ -12,7 +12,7 @@ function App() {
       <Header></Header>
       <ul>
         <li>Base Syntax & Rules</li>
-        <li>Variables, Values & Operators</li>
+        <li>Variables, Values && Operators</li>
         <li>Functions</li>
         <li>Control Structures</li>
       </ul>
