@@ -15,6 +15,7 @@ function App() {
         <li>Variables, Values && Operators</li>
         <li>Functions</li>
         <li>Control Structures</li>
+        <li>kkkkkk</li>
       </ul>
       <p>
         Build a component and insert it below this text.
