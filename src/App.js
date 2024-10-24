@@ -22,10 +22,6 @@ function App() {
       <p>
         let's go
       </p>
-      <p>
-        let's go
-      </p>
-
     </div>
   );
 }
