@@ -17,10 +17,7 @@ function App() {
         <li>Control Structures</li>
       </ul>
       <p>
-        Build a component and insert it below this text.
-      </p>
-      <p>
-        let's go
+        Build a component and insert it below this text. try it
       </p>
     </div>
   );
